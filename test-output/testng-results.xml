@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="84297" started-at="2017-10-05T04:26:09Z" finished-at="2017-10-05T04:27:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="84297" started-at="2017-10-05T04:26:09Z" finished-at="2017-10-05T04:27:33Z">
+      <class name="test.HybridFW">
+        <test-method status="PASS" signature="cal()[pri:0, instance:test.HybridFW@5025a98f]" name="cal" is-config="true" duration-ms="6920" started-at="2017-10-05T09:56:09Z" finished-at="2017-10-05T09:56:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cal -->
+        <test-method status="PASS" signature="init()[pri:0, instance:test.HybridFW@5025a98f]" name="init" is-config="true" duration-ms="0" started-at="2017-10-05T09:56:16Z" finished-at="2017-10-05T09:56:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="smokeTest()[pri:0, instance:test.HybridFW@5025a98f]" name="smokeTest" duration-ms="77318" started-at="2017-10-05T09:56:16Z" finished-at="2017-10-05T09:57:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smokeTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.HybridFW@5025a98f]" name="tearDown" is-config="true" duration-ms="1" started-at="2017-10-05T09:57:33Z" finished-at="2017-10-05T09:57:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.HybridFW -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
